@@ -1,2 +1,5 @@
 Hello Folks.
 This is my coding questions repository.
+
+You can find codes for many basic data structures and algorithms.
+Codes frequently asked in Placement Tests and Interviews.
